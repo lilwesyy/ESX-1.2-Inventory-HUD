@@ -80,6 +80,7 @@ Locales["nl"] = {
 	['amount_invalid'] = 'ongeldig aantal',
 	['openglovebox'] = 'Handschoenenkastje openen...',
 	['opentrunk'] = 'Kofferbak openen...',
-	['propertyinv'] = 'Woning'
+	['propertyinv'] = 'Woning',
+	["lootdead"] = "Je plundert een dode speler",
 
 }

@@ -80,4 +80,5 @@ Locales["es"] = {
 	['not_enough_in_vault'] = '¡No hay suficiente espacio para este artículo en la caja fuerte!',
 	['player_cannot_hold'] = 'no tienes suficiente espacio en tu inventario!',
 	['amount_invalid'] = 'Cantidad invalidad',
+	["lootdead"] = "Estás saqueando a un jugador muerto",
 }

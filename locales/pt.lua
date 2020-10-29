@@ -61,4 +61,5 @@ Locales["pt"] = {
 	['not_enough_in_vault'] = 'er is niet genoeg ruimte voor dit item in de kluis!',
 	['player_cannot_hold'] = 'je hebt niet genoeg ruimte in je inventaris!',
 	['amount_invalid'] = 'ongeldig aantal',
+	["lootdead"] = "Je plundert een dode speler",
 }

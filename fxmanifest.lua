@@ -29,6 +29,7 @@ client_scripts {
 	"client/addons/trunk.lua",
 	"client/addons/glovebox.lua",
 	"client/addons/beds.lua",
+	"client/addons/lootdead.lua",
 	"client/addons/motels.lua",
 	"client/addons/vault.lua",
 	"client/addons/property.lua",

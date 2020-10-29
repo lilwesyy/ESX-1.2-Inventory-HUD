@@ -81,4 +81,5 @@ Locales["en"] = {
 	['not_enough_in_vault'] = 'there is not enough space for this item in the safe!',
 	['player_cannot_hold'] = 'you dont have enough space in your inventory!',
 	['amount_invalid'] = 'invalid number',
+	["lootdead"] = "You are looting a dead player",
 }
